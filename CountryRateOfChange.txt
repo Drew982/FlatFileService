@@ -1,0 +1,56 @@
+﻿"Aruba", 895.15
+"Andorra", 1,079.49
+"Afghanistan", 411,503.87
+"Angola", 344,666.91
+"Albania", 23,360.98
+"Arab World", 5,303,310.15
+"United Arab Emirates", 163,518.67
+"Argentina", 406,562.75
+"Armenia", 20,704.69
+"American Samoa", 644.04
+"Antigua and Barbuda", 658.53
+"Australia", 239,774.71
+"Austria", 27,164.29
+"Azerbaijan", 102,494.36
+"Burundi", 146,002.18
+"Belgium", 37,776.80
+"Benin", 148,488.40
+"Burkina Faso", 231,998.31
+"Bangladesh", 2,015,942.02
+"Bulgaria",-11,698.84
+"Bahrain", 21,807.80
+"Bosnia and Herzegovina", 10,964.25
+"Belarus", 23,363.64
+"Belize", 4,720.69
+"Bermuda", 377.07
+"Bolivia", 124,880.65
+"Brazil", 2,428,805.69
+"Barbados", 953.56
+"Brunei Darussalam", 6,101.25
+"Bhutan", 9,834.55
+"Botswana", 30,834.69
+"Central African Republic", 60,014.82
+"Canada", 320,629.98
+"Central Europe and the Baltics", 219,901.75
+"Switzerland", 52,014.95
+"Channel Islands", 972.69
+"Chile", 183,035.55
+"China", 12,676,363.64
+"Cote d'Ivoire", 339,679.69
+"Cameroon", 316,575.40
+"Colombia", 569,291.07
+"Comoros", 10,568.35
+"Cabo Verde", 5,665.27
+"Costa Rica", 62,264.80
+"Caribbean small states", 51,309.95
+"Cuba", 77,054.22
+"Curacao", 565.15
+"Cayman Islands", 932.82
+"Cyprus", 10,558.71
+"Czech Republic", 16,788.02
+"Germany", 148,501.82
+"Djibouti", 14,409.78
+"Dominica", 224.09
+"Denmark", 19,343.13
+"Dominican Republic", 129,307.35
+"Algeria", 505,626.22

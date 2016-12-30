@@ -8,10 +8,11 @@ import java.util.Scanner;
 public class Reader //Opens file, reads, closes file, sends to main
 {
     private Scanner scanner;
+    private File file;
 
     public Reader(String filename) //Opens file
     {
-        File file = new File(filename);
+        file = new File(filename);
         try
         {
             scanner = new Scanner(file);
