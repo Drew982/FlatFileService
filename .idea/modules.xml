@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flatfileservice.iml" filepath="$PROJECT_DIR$/.idea/modules/flatfileservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flatfileservice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/flatfileservice_main.iml" group="flatfileservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flatfileservice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/flatfileservice_test.iml" group="flatfileservice" />
+    </modules>
+  </component>
+</project>
